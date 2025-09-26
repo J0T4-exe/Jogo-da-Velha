@@ -1,0 +1,32 @@
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\bin\Debug\net8.0-windows\Projeto2.exe
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\bin\Debug\net8.0-windows\Projeto2.deps.json
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\bin\Debug\net8.0-windows\Projeto2.runtimeconfig.json
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\bin\Debug\net8.0-windows\Projeto2.dll
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\bin\Debug\net8.0-windows\Projeto2.pdb
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.Form1.resources
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.dll
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\refint\Projeto2.dll
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.pdb
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\Projeto2.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Projeto2\Projeto2\obj\Debug\net8.0-windows\ref\Projeto2.dll
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.Form1.resources
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.csproj.GenerateResource.cache
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.AssemblyInfoInputs.cache
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.AssemblyInfo.cs
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.dll
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\refint\Projeto2.dll
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.pdb
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\bin\Debug\net8.0-windows\Projeto2.exe
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\bin\Debug\net8.0-windows\Projeto2.deps.json
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\bin\Debug\net8.0-windows\Projeto2.runtimeconfig.json
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\bin\Debug\net8.0-windows\Projeto2.dll
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\bin\Debug\net8.0-windows\Projeto2.pdb
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\Projeto2.genruntimeconfig.cache
+C:\Users\JOTA\Desktop\IF\POE\JOGO DA VELHA\Projeto2\obj\Debug\net8.0-windows\ref\Projeto2.dll
